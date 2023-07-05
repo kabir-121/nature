@@ -1,1 +1,19 @@
-img{height: 400px;width: 400px;}
+img{height: 400px;width: 400px;
+    border: 10px solid rgb(123, 75, 7);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px;
+    
+}
+#a{background-color: rgba(60, 0, 255, 0.923);
+    box-shadow: 10px 20px 10px slateblue;
+    text-align: center;
+    border-radius: 10px; 
+}
+.b{border: 2px solid tomato;
+    padding: 5px;
+    background-color: cornsilk;
+
+}
+div{
+    border: 2px solid black;
+}
